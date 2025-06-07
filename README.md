@@ -13,7 +13,7 @@ The code is not optimized or polished, but kept for documentation and learning p
 
 ## ⚠️ Disclaimer
 These are old student projects and may contain beginner mistakes.
-Feel free to use the code as reference or inspiration — but not for serious applications.
+Feel free to use the code as reference or inspiration, but not for serious applications.
 
 ## 🧑‍💻 Author
 **Kilian** — Student of Medical Informatics
